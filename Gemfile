@@ -27,7 +27,7 @@ gem 'execjs'
 gem 'ansi'
 gem 'term-ansicolor', :require => 'term/ansicolor'
 gem 'dm-core'
-gem 'json'
+gem 'json', '>= 2.3.0'
 gem 'data_objects'
 gem 'rubyzip', '>= 1.0.0'
 gem 'espeak-ruby', '>= 1.0.3' # Text-to-Voice
